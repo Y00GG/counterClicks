@@ -1,6 +1,6 @@
-# hello_world_app
+# Proyecto simple de Contador de Clicks
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
